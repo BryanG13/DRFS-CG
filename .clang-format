@@ -1,0 +1,17 @@
+BasedOnStyle: LLVM
+IndentWidth: 4
+ColumnLimit: 0
+
+# Braces on same line for control statements
+BreakBeforeBraces: Custom
+BraceWrapping:
+  AfterControlStatement: false   # keep { on same line after if/for/while
+  BeforeElse: true               # put else on new line
+
+# Force braces everywhere
+AllowShortIfStatementsOnASingleLine: false
+AllowShortLoopsOnASingleLine: false
+AllowShortBlocksOnASingleLine: Never
+AllowShortFunctionsOnASingleLine: None
+
+InsertBraces: true
