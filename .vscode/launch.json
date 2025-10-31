@@ -5,7 +5,7 @@
     "version": "0.2.0",
     "configurations": [
     {
-        "name": "LNS",
+        "name": "DRFS_CG",
         "type": "cppdbg",
         "request": "launch",
         "program": "${workspaceFolder}/build/DRFS_CG",
