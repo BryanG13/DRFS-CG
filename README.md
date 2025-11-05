@@ -1,6 +1,6 @@
 # DRFS-CG: Demand-Responsive Feeder Service - Column Generation
 
-C++ implementation of a demand-responsive feeder scheduling model using Mixed Integer Programming (MIP) with lazy constraints. The MIP is solved using CPLEX and modelled as a Column Generation model. 
+C++ implementation of a demand-responsive feeder scheduling model using Mixed Integer Programming (MIP) with lazy constraints. The MIP is solved using CPLEX and modelled as a Column Generation model. The code is used in this [academic paper]( https://doi.org/10.1002/net.22095).
 
 ## Overview
 
