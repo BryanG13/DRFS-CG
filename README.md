@@ -41,11 +41,3 @@ Example:
 ## Data layout
 
 Input files are plain text tabular files; check `data/input/` for formatting examples. Output files are written to `data/output/` and contain the computed assignments and solution details.
-
-## License
-
-This project is provided under the repository LICENSE file.
-
-## Contact
-
-Maintainer: Bryan Galarza
